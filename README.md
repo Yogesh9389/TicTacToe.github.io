@@ -3,6 +3,7 @@
 Tic Tac Toe AI is an implementation of the classic Tic Tac Toe game with an AI player using the Minimax algorithm. The game is built using javascript and provides an interactive experience where users can play against the AI.
 
 The Minimax algorithm is a decision-making algorithm commonly used in two-player games. It allows the AI player to make optimal moves by evaluating all possible moves and choosing the one that maximizes its chances of winning or minimizes the opponent's chances.
+![tic-tac-toe-robot](https://github.com/Yogesh9389/TicTacToe.github.io/assets/125749946/4e5973ff-ae78-4b30-a2aa-b0af64f8f5b0)
 
 ## Features
 
